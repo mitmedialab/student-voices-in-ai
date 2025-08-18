@@ -53,6 +53,30 @@ export default function App() {
 </div>
 
         </section>
+
+        <footer className="footer">
+          <p>
+            This work was developed by{" "}
+            <a
+              className="highlight-link"
+              href="https://danielladipaola.com/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Daniella DiPaola
+            </a>{" "}
+            and{" "}
+            <a
+              className="highlight-link"
+              href="https://raise.mit.edu/people/john-masla/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              John Masla
+            </a>
+          </p>
+        </footer>
+        
       </div>
     </div>
   );
