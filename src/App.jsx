@@ -44,7 +44,7 @@ export default function App() {
 </section>
 
 <div className="ctaGroup">
-  <a className="btn btn-orange btn-wide" href="https://docs.google.com/document/d/1z75zEbAmbLucxcW7x3nNF3j3rr8LSYnSstJP2K8A0TQ/edit?tab=t.0#heading=h.d2lt904ufl5d">
+  <a className="btn btn-orange btn-wide" href="https://docs.google.com/document/d/1z75zEbAmbLucxcW7x3nNF3j3rr8LSYnSstJP2K8A0TQ/edit?usp=sharing">
     Preview the materials
   </a>
   <a className="btn btn-purple btn-wide" href="https://forms.gle/ASjbBG31r6dnyX4m7">
